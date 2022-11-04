@@ -1,6 +1,6 @@
 {
   "name": "moderate-webcomp-starter",
-  "version": "0.0.3",
+  "version": "0.6.1",
   "description": "moderate webcomp starter",
   "main": "dist/components/index.js",
   "module": "dist/components/index.js",
