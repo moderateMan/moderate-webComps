@@ -1,7 +1,11 @@
 ---
-nav:
-  title: Components
+title: foo
+group:
+  title: 组件
   path: /components
+nav:
+  title: 组件
+  order: 6
 ---
 
 ## Foo

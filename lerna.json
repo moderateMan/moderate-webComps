@@ -1,6 +1,6 @@
 {
   "packages": [
-    "webComps"
+    "packages/webComps"
   ],
   "version": "0.6.1"
 }
